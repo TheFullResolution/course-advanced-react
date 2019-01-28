@@ -14,4 +14,7 @@
       "attr_quotes": "single"
     }
   },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
 }
