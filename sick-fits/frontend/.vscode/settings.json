@@ -5,16 +5,13 @@
     "titleBar.activeBackground": "#FFC600",
     "titleBar.inactiveBackground": "#FFC600CC"
   },
-  "files.associations": {
-    "*.js": "javascriptreact"
-  },
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx",
-    "xml": {
-      "attr_quotes": "single"
-    }
-  },
-  "files.associations": {
-    "*.js": "javascriptreact"
-  },
+  // "emmet.syntaxProfiles": {
+  //   "javascript": "jsx",
+  //   "xml": {
+  //     "attr_quotes": "single"
+  //   }
+  // },
+  // "files.associations": {
+  //   "*.js": "javascriptreact"
+  // },
 }
