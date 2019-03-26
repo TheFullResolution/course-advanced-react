@@ -50,7 +50,7 @@ class CreateItem extends Component {
     data.append('upload_preset', 'sickfits');
 
     const res = await fetch(
-      'https://res.cloudinary.com/thefullresolution/image/upload',
+      'https://api.cloudinary.com/v1_1/thefullresolution/image/upload',
       {
         method: 'POST',
         body: data

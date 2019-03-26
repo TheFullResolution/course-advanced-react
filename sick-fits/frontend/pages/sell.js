@@ -1,9 +1,9 @@
-import UpdateItem from '../components/UpdateItem';
+import CreateItem from '../components/CreateItem';
 
-const Update = ({ query }) => (
+const Sell = props => (
   <div>
-    <UpdateItem id={query.id} />
+    <CreateItem />
   </div>
 );
 
-export default Update;
+export default Sell;
